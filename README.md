@@ -1,4 +1,4 @@
-# 📺 Amazon Prime Video – Power BI Dashboard
+<img width="1160" height="645" alt="image" src="https://github.com/user-attachments/assets/a335e249-c076-4cb9-bd62-39dec1f07558" /># 📺 Amazon Prime Video – Power BI Dashboard
 
 ## 📊 Project Overview
 
@@ -122,7 +122,7 @@ The dashboard includes important KPIs such as:
 
 ### Dashboard Overview
 
-![Amazon Prime Dashboard](screenshots/dashboard_overview.png)
+
 
 ### Content Analysis
 
@@ -132,19 +132,16 @@ The dashboard includes important KPIs such as:
 
 ![Genre Analysis](screenshots/genre_analysis.png)
 
----
 
 ## 💡 Key Insights
 
-Some of the major insights identified through the dashboard include:
+- Movies represent the majority of the content library compared with TV Shows.
+- The dashboard contains 9,668 total titles, including 7,814 movies and 1,854 TV shows.
+- Drama is one of the largest content categories in the dataset.
+- Content is distributed across 30 countries.
+- The content growth chart shows significant variation in the number of titles released across different years.
+- The age-rating analysis shows that 13+ and 16+ are among the major rating categories.
 
-* Movies and TV Shows can be compared to understand the platform's content mix.
-* Genre analysis helps identify the most frequently available content categories.
-* Rating analysis provides an overview of the target audience and content classification.
-* Release-year analysis shows how the content library has evolved over time.
-* Country analysis highlights the geographical distribution of available content.
-
----
 
 ## 🚀 Skills Demonstrated
 
