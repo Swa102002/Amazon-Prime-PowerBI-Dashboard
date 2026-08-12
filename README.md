@@ -1,4 +1,4 @@
-<img width="1160" height="645" alt="image" src="https://github.com/user-attachments/assets/a335e249-c076-4cb9-bd62-39dec1f07558" /># 📺 Amazon Prime Video – Power BI Dashboard
+# 📺 Amazon Prime Video – Power BI Dashboard
 
 ## 📊 Project Overview
 
@@ -122,16 +122,7 @@ The dashboard includes important KPIs such as:
 
 ### Dashboard Overview
 
-
-
-### Content Analysis
-
-![Content Analysis](screenshots/content_analysis.png)
-
-### Genre Analysis
-
-![Genre Analysis](screenshots/genre_analysis.png)
-
+<img width="1160" height="645" alt="image" src="https://github.com/user-attachments/assets/a335e249-c076-4cb9-bd62-39dec1f07558" />
 
 ## 💡 Key Insights
 
