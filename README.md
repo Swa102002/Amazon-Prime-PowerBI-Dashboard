@@ -38,7 +38,9 @@ The dashboard analyzes titles based on content type, genres, ratings, release ye
 
 ## 📸 Dashboard Preview
 
-![Amazon Prime Dashboard](screenshots/amazon_prime_dashboard.png)
+### Amazon Prime Dashboard
+
+![Amazon Prime Dashboard](Amazon_prime_dashboard.png)
 
 ## 💡 Key Insights
 
